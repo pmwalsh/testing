@@ -1,0 +1,36 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-117.2408768, 32.7591634]
+		},
+		"properties": {
+			"SUP": true,
+			"Kayak": true,
+			"Canoe": false,
+			"Discount": true,
+			"icon": "http://maps.google.com/mapfiles/ms/icons/blue-dot.png",
+			"description": "Kayak & paddleboard specialist offering gear for sale, plus equipment rentals, lessons & tours",
+			"title": "Aqua Adventures Mission Bay",
+			"marker-size": "small"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-88.5637254, 43.1004633]
+		},
+		"properties": {
+			"SUP": true,
+			"Kayak": true,
+			"Canoe": true,
+			"Discount": false,
+			"icon": "http://maps.google.com/mapfiles/ms/icons/red-dot.png",
+			"description": "Water sports equipment rental service",
+			"title": "Nomad Boardsports",
+			"marker-size": "small"
+		}
+	}]
+}
