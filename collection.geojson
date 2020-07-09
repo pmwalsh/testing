@@ -17,6 +17,25 @@
 			"title": "Savannah Rapids Kayak Rental",
 			"website": "https://kayakaugustacanal.com/",
 			"marker-size": "small"
+		},
+
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-83.912623, 35.962074]
+		},
+		"properties": {
+			"SUP": true,
+			"Kayak": true,
+			"Canoe": true,
+			"Discount": true,
+			"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
+			"logo": "",
+			"description": "Discount: $5 off your rental. Equipment available: SUP recreational and race boards, Canoe, Kayak, Hydrobikes",
+			"title": "Knoxville Adventure Collective",
+			"website": "https://knoxvilleadventure.com/",
+			"marker-size": "small"
 		}
 	}]
 }
