@@ -17,9 +17,10 @@
 			"title": "Savannah Rapids Kayak Rental",
 			"website": "https://kayakaugustacanal.com/",
 			"marker-size": "small"
-		},
+		}
+	},
 
-		{
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -36,6 +37,5 @@
 			"title": "Knoxville Adventure Collective",
 			"website": "https://knoxvilleadventure.com/",
 			"marker-size": "small"
-		}
-	}]
+		}]
 }
