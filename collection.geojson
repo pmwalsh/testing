@@ -4,34 +4,18 @@
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [-117.2408768, 32.7591634]
-		},
-		"properties": {
-			"SUP": true,
-			"Kayak": true,
-			"Canoe": false,
-			"Discount": true,
-			"icon": "https://maps.google.com/mapfiles/ms/icons/blue-dot.png",
-			"logo": "https://cdn.aqua-adventures.com/wp-content/uploads/2019/08/aqua-logo-transparent-small.png",
-			"description": "Kayak & paddleboard specialist offering gear for sale, plus equipment rentals, lessons & tours",
-			"title": "Aqua Adventures Mission Bay",
-			"marker-size": "small"
-		}
-	}, {
-		"type": "Feature",
-		"geometry": {
-			"type": "Point",
-			"coordinates": [-88.5637254, 43.1004633]
+			"coordinates": [-82.039032, 33.549361]
 		},
 		"properties": {
 			"SUP": true,
 			"Kayak": true,
 			"Canoe": true,
-			"Discount": false,
+			"Discount": true,
 			"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
 			"logo": "http://nomadboardsports.com//wp-content/uploads/2016/04/nomadboardsports.png",
-			"description": "Water sports equipment rental service",
-			"title": "Nomad Boardsports",
+			"description": "Discount: $5 off your rental. Equipment available: SUP (recreational),  Canoe, Kayak",
+			"title": "Savannah Rapids Kayak Rental",
+			"website": "https://kayakaugustacanal.com/",
 			"marker-size": "small"
 		}
 	}]
