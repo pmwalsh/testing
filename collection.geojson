@@ -18,9 +18,7 @@
 			"website": "https://kayakaugustacanal.com/",
 			"marker-size": "small"
 		}
-	},
-
-	{
+	}, {
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
