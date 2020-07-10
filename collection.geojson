@@ -36,5 +36,23 @@
 			"website": "https://knoxvilleadventure.com/",
 			"marker-size": "small"
 		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-117.2408768, 32.7591634]
+		},
+		"properties": {
+			"SUP": true,
+			"Kayak": true,
+			"Canoe": true,
+			"Discount": false,
+			"icon": "https://maps.google.com/mapfiles/ms/icons/blue-dot.png",
+			"logo": "https://cdn.aqua-adventures.com/wp-content/uploads/2019/08/aqua-logo-transparent-small.png",
+			"description": "Equipment Available: SUP (recreational and race boards), OC1, Kayak, Hydrobikes, Surfski",
+			"title": "Aqua Adventures Mission Bay",
+			"website": "https://www.aqua-adventures.com/",
+			"marker-size": "small"
+		}
 	}]
 }
